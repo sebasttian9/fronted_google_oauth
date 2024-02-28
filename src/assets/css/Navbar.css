@@ -1,0 +1,37 @@
+.navbar{
+    background-color: #2525af;
+    height: px;
+}
+
+img{
+    width: 50px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nl{
+    margin-top: 10px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.inactive{
+    text-decoration: none;
+    color: white
+}
+
+.active{
+    text-decoration: none;
+    color: black;
+}
